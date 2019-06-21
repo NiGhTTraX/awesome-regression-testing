@@ -83,6 +83,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps.
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 - [test-crawler](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
+- [Mugshot](https://github.com/NiGhTTraX/mugshot) - Framework independent visual testing library.
 
 ## Online services
 
